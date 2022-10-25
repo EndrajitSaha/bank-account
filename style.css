@@ -1,3 +1,11 @@
 .container {
   margin: 0 auto;
 }
+h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+a {
+  color: black;
+  text-decoration: underline;
+}
